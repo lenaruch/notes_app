@@ -1,0 +1,16 @@
+22-09-2023 23:16:33 - INFO - <module> - Start program
+22-09-2023 23:16:45 - INFO - operations - Stop program
+22-09-2023 23:20:06 - INFO - <module> - Start program
+22-09-2023 23:23:50 - INFO - <module> - Start program
+22-09-2023 23:23:56 - INFO - operations - Enter new note
+22-09-2023 23:23:56 - ERROR - read_file - Incorrect file
+22-09-2023 23:24:02 - INFO - read_file - New datafile was created
+22-09-2023 23:24:09 - INFO - read_file - Created new note with id 1
+22-09-2023 23:24:09 - INFO - add_data - New data was added
+22-09-2023 23:24:14 - INFO - create_note - Created new note with id 1
+22-09-2023 23:24:14 - INFO - add_data - New data was added
+22-09-2023 23:24:24 - INFO - operations - Show all notes
+22-09-2023 23:28:01 - INFO - <module> - Start program
+22-09-2023 23:28:46 - INFO - <module> - Start program
+22-09-2023 23:28:51 - INFO - operations - Stop program
+22-09-2023 23:35:46 - INFO - <module> - Start program
